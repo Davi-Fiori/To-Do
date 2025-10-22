@@ -97,12 +97,3 @@ Ajuste conforme a estrutura real do seu projeto.
 ## Deploy
 - Gere build (`npm run build`) e faça deploy do conteúdo da pasta `dist` em Netlify, Vercel, GitHub Pages ou outro provedor.
 - Configure variáveis de ambiente se necessário.
-
-## Licença
-Adicione um arquivo LICENSE na raiz (sugestão: MIT) e atualize esta seção conforme a licença escolhida.
-
-## Contato / Suporte
-Abra uma issue no repositório com título claro, descrição do problema e passos para reproduzir. Inclua logs e prints quando possível.
-
----
-Ajuste quaisquer comandos e seções para refletir os scripts e configurações reais do seu projeto antes de publicar no GitHub.
